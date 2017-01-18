@@ -10,3 +10,4 @@ The links below will link to my individual Medium articles. Check the correspond
 - [Day 02: CSS + JS Clock with extra bits from myself](https://medium.com/@mike_ekkel/javascript-30-day-2-css-js-clock-ae539f10a9f9)
 - [Day 03: CSS Variables & JS](https://medium.com/@mike_ekkel/javascript-30-day-3-css-variables-js-fdd002dc34d4#.tqv1nbtbh)
 - [Day 04: Array Cardio Day 1](https://medium.com/@mike_ekkel/javascript-30-day-4-array-cardio-day-1-26a0d05b36df#.dugvhdeb6)
+- [Day 05: Flex Panels Image Gallery](https://medium.com/@mike_ekkel/javascript-30-day-5-flex-panels-image-gallery-d97bd69ec14d#.sgnvjoj00)
